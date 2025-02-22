@@ -1,0 +1,67 @@
+{
+    "title": "Select Language",
+
+    "prevuis": "Prevuis",
+    "skip": "Skip",
+    "next": "Next",
+    "login": "Done",
+    "choose_language": "Choose your language here: ",
+    "improve_job_title": "Improve your job!",
+    "improve_job_detail": "Track your everday income and expenses and know how much do you make in days and years. Use Loopcash Everywhere you want. Make your customers know about your. Make the ability that your customers shop online.",
+    "save_money_title": "Save your money!",
+    "save_money_detail": "Track your everday expenses and know how much you spend in days and years. Use Loopcash Everywhere you want. And make your expenses lower and lower everyday by loopcash.",
+    
+    "welcome_back_message": "Welcome back, you've been missed!",
+    "email": "Email",
+    "pw": "Password",
+    "not_member": "Not a member? ",
+    "register_now": "Register Now",
+    "create_acount_message": "Let's create an acount for you!",
+    "register": "Register",
+    "c_pw": "Confirm Password",
+    "a_member": "Already have an acount? ",
+    "login_now": "Login Now",
+    "forgot_pw": "forgot password",
+    "or_continue_with": "or continue with",
+    "login_google": "Login with Google",
+    "register_google": "Register with Google",
+
+    "home": "Home",
+    "shop": "Shop",
+    "statics": "Statics",
+    "profit": "Profit",
+    "settings": "Settings",
+
+    "hi": "Hi!",
+    "welcome": "Welcome back to Loopcash.",
+    "add_income": "Add your \nIncome",
+    "add_expense": "Add your \nExpense",
+    "income": "Income",
+    "expenses": "Expenses",
+
+    "dark_mode": "Dark Mode",
+    "language": "Language",
+
+    "total_income": "Total Income",
+    "total_expenses": "Expenditure",
+    "earnings": "Earnings",
+    "spendings": "Spendings",
+
+    "today_made": "Today you made",
+    "month_made": "Today you made",
+    "year_made": "Today you made",
+
+    "search": "Search Here!",
+    "product": "Product Name",
+    "price": "Price",
+    "add_product": "Add Product",
+    "save": "Save",
+    "cancel": "Cancel",
+    "for_sell": "For Sell",
+    "cart": "Cart",
+    "cart_empty": "Your cart is empty...",
+    "yes": "Yes",
+    "sure_to_remove": "Are you sure to remove this item from cart?",
+    "sure_to_add": "Are you sure to add this item to cart?"
+  }
+  
